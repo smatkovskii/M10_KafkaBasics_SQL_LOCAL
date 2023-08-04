@@ -1,0 +1,24 @@
+*.class
+*.log
+
+# idea
+/.idea
+/target
+*.iml
+
+.venv/
+venv/
+venv_p/
+dist/
+*.egg-info/
+build/
+
+.vscode/
+__blobstorage__/
+
+confluent-hub-components/
+
+/kubeconfig
+
+### Mac ###
+.DS_Store
